@@ -34,9 +34,10 @@ A simple key-value database with AES encryption is implemented, supporting:
 
 ### 🔧 Compile  
 make
-- Part A : ./crypto
+- Part A :
+            ./crypto
 
--Part B : 
+- Part B : 
 
           # Add a key-value pair
           ./ask7 add db.txt <num1> <num2>  
