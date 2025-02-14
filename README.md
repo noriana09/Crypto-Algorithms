@@ -1,4 +1,4 @@
-# 🔐 KeyValue Algorithms
+# 🔐 Crypto Algorithms
 
 ## 📜 Description  
 This project implements cryptographic algorithms and a secure key-value storage system using encryption.  
